@@ -83,9 +83,6 @@ website:
       - icon: house
         href: https://gpsaswimming.org
         text: "GPSA Home"
-      - icon: book
-        href: GPSA-Wiki.epub
-        text: "Download ePub"
 
 
 # Format configurations

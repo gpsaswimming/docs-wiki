@@ -27,12 +27,6 @@ jobs:
       - name: Render Quarto site
         run: quarto render
 
-      - name: Render ePub
-        run: quarto render --profile epub --to epub
-
-      - name: Copy ePub to site
-        run: cp _epub/GPSA-Wiki.epub _site/
-
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
         with:
