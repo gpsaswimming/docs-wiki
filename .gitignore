@@ -1,0 +1,40 @@
+# Quarto build files
+_site/
+_epub/
+.quarto/
+*.html
+*.pdf
+!_layouts/*.html
+!_includes/*.html
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.fseventsd
+
+# Editor directories
+.vscode/
+.idea/
+.claude/
+
+# Temporary files
+*.swp
+*.swo
+*~
+.tmp/
+temp/
+
+# LaTeX intermediate files
+*.aux
+*.tex
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+/.quarto/
+**/*.quarto_ipynb

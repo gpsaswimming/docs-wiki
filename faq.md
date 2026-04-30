@@ -1,0 +1,192 @@
+---
+title: Frequently Asked Questions
+toc: true
+last_updated: November 2025
+---
+
+Find answers to common questions about GPSA swimming.
+
+## General Questions
+
+### What is GPSA?
+
+GPSA (Greater Peninsula Swimming Association) is a recreational summer swim league for youth swimmers on the Virginia Peninsula. We provide competitive swimming opportunities for ages 5-18.
+
+### How long is the season?
+
+The GPSA season typically runs from mid-June through mid-July, lasting approximately 5-6 weeks.
+
+### What is the cost to participate?
+
+Costs vary by team. Contact your local pool or GPSA Representative for specific registration fees.
+
+### Can my child join if they can't swim all four strokes?
+
+Membership requirements vary by team. Contact your local pool or GPSA Representative for specific registration requirements. Younger swimmers typically start with freestyle and backstroke, adding breaststroke and butterfly as they develop.
+
+## Meet Information
+
+### What time do meets start?
+
+Most dual meets begin at 6:00 PM on weekday evenings (Monday or Thursday). Invitational and championship meets have different start times which are published in their respective meet invites.
+
+### How long do meets last?
+
+Dual meets typically last 2-3 hours. Invitational meets run longer depending on the number of participants.
+
+### What should swimmers bring to a meet?
+
+Essential items include:
+
+- Swimsuit and cap (in team colors)
+- Towels
+- Goggles
+- Water bottle
+- Healthy snacks
+- Sunscreen
+- Warm clothes for cool evenings
+
+### Can parents watch the meet?
+
+Absolutely! Parent support is encouraged. Most pools have spectator areas. Please follow each facility's rules regarding seating and behavior.
+
+### What if my child is nervous about competing?
+
+It's normal to feel nervous! Here are some tips:
+
+- Arrive early to get comfortable with the environment
+- Talk to coaches and teammates
+- Remember that everyone is supportive
+- Focus on having fun and doing your best
+- Celebrate effort, not just winning
+
+## Swimming Rules
+
+### How are age groups determined?
+
+Age is determined as of June 1st of the current season. For example, if your child turns 11 on July 15th but was 10 on June 1st, they compete in the 9-10 age group.
+
+### How many events can my child swim?
+
+Each swimmer may compete in up to 3 individual events plus 1 relay per meet. Coaches manage event assignments to ensure fair participation.
+
+### What are the four competitive strokes?
+
+1. **Freestyle** - Any stroke, typically front crawl
+2. **Backstroke** - Swimming on your back
+3. **Breaststroke** - Simultaneous arm pull and frog kick
+4. **Butterfly** - Simultaneous over-water arm recovery and dolphin kick
+
+### What is an Individual Medley (IM)?
+
+An IM is a race where the swimmer completes all four strokes in this order: butterfly, backstroke, breaststroke, freestyle.
+
+### What happens if a swimmer is disqualified (DQ)?
+
+A DQ means the swimmer violated a stroke or turn rule, resulting in no points. While officials must notate the infraction, coaches can explain the specific violation and use it as a valuable teaching opportunity.
+
+## Team & Practice
+
+### Are practices required?
+
+Practice policies vary by team. Check with your GPSA Representative or coach for specific attendance expectations.
+
+### What if we have to miss a meet?
+
+Communicate absences to your coach as early as possible so they can plan relay lineups and event assignments.
+
+### Can siblings be on different teams?
+
+Swimmers must compete for the team associated with their pool membership or neighborhood. Siblings typically swim for the same team.
+
+## Officials & Volunteers
+
+### Do parents need to volunteer?
+
+Most teams require parent volunteers for various roles:
+
+- Timers
+- Stroke and turn judges
+- Runner/clerk of course
+- Concessions
+- Setup and cleanup
+
+### Do I need to be certified to volunteer?
+
+**Timers** - No certification required; training provided at each meet
+**Sweeps Judge** - No certification required; training provided at each meet
+**Stroke & Turn Judges** - Certification required; training offered through GPSA
+**Starter** - Certification required; training offered through GPSA
+**Referee** - Certification required; training offered through GPSA
+**Other roles** - No certification needed
+
+### How do I become a certified official?
+
+See the [GPSA Rulebook - Certification](https://rulebook.gpsaswimming.org/officials.html#certification) section for information about training clinics.
+
+## Summer Splash Invitational
+
+Summer Splash is GPSA's end-of-season championship meet — a competition-grade venue, touchpads, live timing, medals for the top 8, and no team scoring. See the [Summer Splash Invitational guide](summer-splash-invitational.md) for a full overview.
+
+### Who can compete at Summer Splash?
+
+Summer Splash eligibility is based on City Meet qualifying standards — swimmers may enter events for which their time is slower than the qualifying standard. Your coach and GPSA Representative will handle entries.
+
+### When is Summer Splash?
+
+Summer Splash is held the Saturday before City Meet. The date is published on the [GPSA Meet Schedule](https://gpsaswimming.org/meet-schedule).
+
+### Is there a fee for Summer Splash?
+
+Yes, the league charges a fee per swimmer and per event entered. See the [GPSA Invitationals site](https://invitationals.gpsaswimming.org) for current fees. Some teams may cover these fees—check with your GPSA Representative.
+
+## City Meet (Championship Meet)
+
+See the [City Meet guide](championship-meet.md) for a full overview including qualifying, entries, day-of schedule, and what to bring.
+
+### Who can compete at the Championship Meet?
+
+Qualifying standards are published before the season. Swimmers must achieve the minimum time in their age group and event during the regular season to compete. See [Championship Meet Qualifying Times](qualifying-times.md).
+
+### When is the Championship Meet?
+
+The Championship Meet is held at the end of the season, usually the last weekend of July or first weekend of August depending on how the calendar falls.
+
+The {{< meta gpsa.season >}} Championship Meet is **{{< meta gpsa.city-meet-date >}}**.
+
+### Is there a fee for the Championship Meet?
+
+The league does charge a fee per swimmer and per event entered. Some teams may cover these fees—check with your GPSA Representative.
+
+## Technical Questions
+
+### What is SwimTopia?
+
+SwimTopia is the online platform GPSA uses for:
+
+- Meet management
+- Results posting
+- Team rosters
+- Communication
+
+Each team has access to their own SwimTopia account.
+
+### Where can I find meet results?
+
+Results are posted on the [GPSA website](https://www.gpsaswimming.org) typically within 24-48 hours after each meet.
+
+### How is scoring calculated?
+
+See the [GPSA Rulebook - Scoring](https://rulebook.gpsaswimming.org/scoring.html) for complete information.
+
+## Still Have Questions?
+
+If you can't find the answer here:
+
+1. **Ask your GPSA Representative** - They're your first resource
+2. **Check the [GPSA Rulebook](https://rulebook.gpsaswimming.org)** - Official rules cover most situations
+3. **Contact league officers** - See [Contact Information](https://www.gpsaswimming.org/gpsa-contacts)
+
+---
+
+**Tip:** Bookmark this page and check back - we update FAQs based on common questions each season!

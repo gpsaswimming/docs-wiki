@@ -1,0 +1,43 @@
+name: Build and Deploy Wiki
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  deployments: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 'release'
+          tinytex: true
+
+      - name: Render Quarto site
+        run: quarto render
+
+      - name: Render ePub
+        run: quarto render --profile epub --to epub
+
+      - name: Copy ePub to site
+        run: cp _epub/GPSA-Wiki.epub _site/
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: gpsa-wiki
+          directory: _site
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
