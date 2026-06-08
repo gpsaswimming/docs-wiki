@@ -187,8 +187,8 @@ These stylesheets are hosted on `css.gpsaswimming.org` and automatically apply w
 ### Pasting into SwimTopia CMS
 
 1. Click the appropriate **Export** button in the tool
-2. Log in to your SwimTopia team admin account
-3. Navigate to the page you want to update (e.g., "Team Roster" page)
+2. On the GPSA Website, log in to your SwimTopia team admin account
+3. Navigate to the Meet Schedule page, then your team's roster page (team links at the top)
 4. Click **Edit** on the page
 5. Switch to **HTML/Source** mode (usually a `<>` button)
 6. **Select all existing content** and delete (or paste over it)
