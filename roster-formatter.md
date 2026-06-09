@@ -1,7 +1,7 @@
 ---
 title: Roster Formatter
 toc: true
-last_updated: November 2025
+last_updated: June 8, 2026
 ---
 
 The **GPSA Roster Formatter** is a comprehensive web-based tool that processes SwimTopia CSV roster exports and generates beautifully formatted HTML for team rosters, contact lists, and officials lists suitable for publishing on SwimTopia CMS pages.
