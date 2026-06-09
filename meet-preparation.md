@@ -1,7 +1,7 @@
 ---
 title: Meet Preparation Guide
 toc: true
-last_updated: January 2025
+last_updated: June 9, 2026
 ---
 
 This guide provides step-by-step instructions for GPSA Representatives and scorekeepers to prepare for a dual meet, from merging entries to creating all required materials.
@@ -96,15 +96,15 @@ See [SwimTopia Guidelines - Printing Place Judge Forms](swimtopia-guidelines.md#
 
 ### 3. Sweep Judge Sheet
 
-**Purpose:** Master tracking sheet for the home sweep judge to record order of finish across all heats.
+**Purpose:** Master tracking sheet for each sweep judge to record order of finish for all scoring heats.
 
-**How to generate:**
+**Where to find:**
 
-1. In Meet Maestro Settings → Reports
-2. Select **Sweep Judge Sheet**
-3. Print for home team
+1. On the GPSA Website -> Resources
+2. Select [**Sweep Judge Sheet**](https://assets.gpsaswimming.org/forms/Sweep%20Judge%20Sheet.pdf)
+3. Print for each team
 
-**Number needed:** 1 (for home sweep judge)
+**Number needed:** 2
 
 ### 4. Meet Referee Sheet
 
@@ -112,8 +112,8 @@ See [SwimTopia Guidelines - Printing Place Judge Forms](swimtopia-guidelines.md#
 
 **How to generate:**
 
-1. In Meet Maestro Settings → Reports
-2. Select **Meet Referee Sheet**
+1. On the GPSA Website -> Resources
+2. Select [**Meet Referee Sheet**](https://assets.gpsaswimming.org/forms/Meet%20Referee.pdf)
 3. Print
 
 **Number needed:** 1
@@ -122,7 +122,6 @@ See [SwimTopia Guidelines - Printing Place Judge Forms](swimtopia-guidelines.md#
 
 - All events in order
 - Space for notes and DQ codes
-- Swimmer names and lanes
 
 ### 5. Meet Referee Verification of Scores
 
@@ -130,8 +129,8 @@ See [SwimTopia Guidelines - Printing Place Judge Forms](swimtopia-guidelines.md#
 
 **How to generate:**
 
-1. In Meet Maestro Settings → Reports
-2. Select **Referee Verification of Scores**
+1. On the GPSA Website -> Resources
+2. Select [**Referee Verification of Scores**](https://assets.gpsaswimming.org/forms/Meet%20Referee%20Verification%20of%20Scores.pdf)
 3. Print
 
 **Number needed:** 1
@@ -144,16 +143,13 @@ See [SwimTopia Guidelines - Printing Place Judge Forms](swimtopia-guidelines.md#
 
 **How to generate:**
 
-1. In Meet Maestro Settings → Reports
-2. Select **Relay Takeoff Sheet**
+1. On the GPSA Website -> Resources
+2. Select [**Relay Takeoff Sheet**](https://assets.gpsaswimming.org/forms/Relay%20Takeoff.pdf)
 3. Print
 
-**Number needed:** 1 per relay event (or combined sheet if available)
+**Number needed:** 2
 
-**Events covered:**
-
-- Event 0: Mixed 8&U 100M Free Relay
-- All A/B relay events throughout meet
+**Events covered:** 53-56
 
 ## Visiting Team Preparation Checklist
 
@@ -191,11 +187,11 @@ Use this checklist to ensure all materials are prepared before warm-ups begin:
 
 - [ ] Meet merged at 12:00 PM
 - [ ] Heat sheets printed (6+ copies)
-- [ ] Place judge forms printed (56 forms for Heat 1 of events 1-56)
-- [ ] Sweep judge sheet printed (1 copy)
+- [ ] Place judge forms printed (56 forms for Heat 1 of events 1-56, can be printed up to 4 per page to save paper)
+- [ ] Sweep judge sheets printed (2 copies)
 - [ ] Meet referee sheet printed (1 copy)
 - [ ] Referee verification of scores printed (1 copy)
-- [ ] Relay takeoff sheet printed
+- [ ] Relay takeoff sheets printed (2 copies)
 - [ ] Lane slips prepared (if using manual timing)
 - [ ] DQ slips available for stroke & turn judges
 - [ ] Stopwatches distributed and tested
@@ -237,7 +233,7 @@ Before the meet begins, verify these settings:
 
 **Record Books and Benchmarks:**
 
-1. Add Team and Pool records
+1. Add Team and Pool records (optional)
 2. Add Championship Meet Qualifying Times
 3. See [SwimTopia Guidelines](swimtopia-guidelines.md#adding-record-book-and-qualifying-times-to-the-meet)
 
