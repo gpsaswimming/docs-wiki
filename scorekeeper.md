@@ -1,7 +1,7 @@
 ---
 title: Scorekeeper Guide
 toc: true
-last_updated: November 2025
+last_updated: June 11, 2026
 ---
 
 The **Scorekeeper** is responsible for entering times, managing results, and maintaining accurate meet scores during GPSA dual meets using **SwimTopia Meet Maestro**. This role is critical for ensuring fair competition and accurate team standings.
@@ -62,7 +62,7 @@ Navigate to **Settings → Meet Setup** and confirm:
    - Example: `2025 Hornets at Dolphins`
    - This ensures proper archiving and results publication
 
-2. **Non-Standard Pool Length**
+2. **Non-Standard Pool Length** [Guide](https://wiki.gpsaswimming.org/swimtopia-guidelines#various-pool-configurations)
    - If the home pool is NOT 25 meters:
      - ☑ Check "Non-standard pool length"
      - Select Course Correction Factor:
@@ -72,7 +72,7 @@ Navigate to **Settings → Meet Setup** and confirm:
 
 ### Step 2: Hide Meet Score Display
 
-Per GPSA rules, the meet score must remain hidden until all events are complete.
+Per GPSA rules, the meet score must remain hidden until all events are complete. [Guide](https://wiki.gpsaswimming.org/swimtopia-guidelines#keeping-the-score-blind)
 
 Navigate to **Settings → Mobile App**:
 
@@ -86,7 +86,7 @@ Navigate to **Settings → Mobile App**:
 
 ### Step 3: Print Place Judge Forms
 
-Place Judge Forms are used by sweeps judges to record the order of finish for each event's scoring heat (Heat 1).
+Place Judge Forms are used by sweeps judges to record the order of finish for each event's scoring heat (Heat 1). [Guide](https://wiki.gpsaswimming.org/swimtopia-guidelines#printing-place-judge-forms)
 
 1. Navigate to **Reports** in Meet Maestro
 2. Select **Place Judge Form** report
@@ -124,7 +124,7 @@ The scorekeeper station should have:
 - ✅ Computer/tablet with Meet Maestro open and tested
 - ✅ Printed Place Judge Forms (distributed to sweeps judges)
 - ✅ Space for incoming paperwork (lane slips, DQ slips, meet changes)
-- ✅ Access to Wi-Fi (if using Time Drops timing system)
+- ✅ Access to Wi-Fi
 - ✅ Backup power source (battery pack or power outlet)
 
 **Note:** The GPSA Representative or their designee typically sets up the scorekeeper station. The scorekeeper should arrive and verify everything is functional before the meet starts.
@@ -142,14 +142,14 @@ Times can come from multiple sources:
 - **Lane Slips** - Individual cards with one lane's times
 - **Index Cards** - Handwritten times from timers
 - **Lane Timer Sheets** - Multi-heat sheets with all times for one lane
-- **Time Drops** - Electronic timing system (requires "Load Times" button)
+- **Time Drops** - Electronic timing system ("Load Times" button)
 
 #### Manual Time Entry
 
 For manual timing (stopwatches):
 
 1. Locate the swimmer's row in the heat
-2. Click in the **Result Time** field
+2. Click in the **Timer 1** field
 3. Enter time in format: `MM:SS.SS` (e.g., `1:23.45`)
 4. Press Enter or Tab to move to next swimmer
 5. Repeat for all swimmers in the heat
@@ -401,7 +401,6 @@ Participation labels are for swimmers who competed but did NOT receive a place r
 **Who Gets Participation Labels:**
 
 - Swimmers who finished 4th or lower (depending on award cutoff)
-- Swimmers who were NOT disqualified
 - Most teams exclude DQ swimmers from participation labels (some teams include them - check with home team)
 
 **Printing Process:**
@@ -640,7 +639,7 @@ See [Publicity Processor wiki page](publicity-processor.md) for detailed export 
 - [ ] Place Judge Forms printed and distributed
 - [ ] Exhibition swimmers marked for all events
 - [ ] Computer/tablet plugged in or fully charged
-- [ ] Wi-Fi connection tested (if using Time Drops)
+- [ ] Wi-Fi connection tested
 - [ ] Timing system configuration verified (if using Time Drops)
 - [ ] Clear workspace for incoming paperwork
 
