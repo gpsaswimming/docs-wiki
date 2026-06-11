@@ -33,6 +33,8 @@ The scorekeeper operates the Meet Maestro software interface to:
 
 The scorekeeper works primarily in the **Results Entry Interface** (also called the "Time Entry" or "Run" interface):
 
+![Meet Maestro Interface](assets/meet-maestro/mm-interface.png){fig-alt="Meet Maestro Interface"}
+
 - **Left Sidebar:** Event list with color-coded status indicators
 - **Main Area:** Heat-by-heat results entry grid
 - **Header Bar:** Meet name, current event, score display toggle
@@ -56,6 +58,8 @@ This restriction ensures data integrity and prevents unauthorized changes to mee
 ### Step 1: Verify Meet Settings
 
 Navigate to **Settings → Meet Setup** and confirm:
+
+![Meet Setup](assets/meet-maestro/mm-meet_setup.png){fig-alt="Meet Setup"}
 
 1. **Meet Name Format**
    - Must include: `YYYY Away Team at Home Team`
