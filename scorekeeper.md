@@ -1,7 +1,7 @@
 ---
 title: Scorekeeper Guide
 toc: true
-last_updated: June 11, 2026
+last_updated: June 16, 2026
 ---
 
 The **Scorekeeper** is responsible for entering times, managing results, and maintaining accurate meet scores during GPSA dual meets using **SwimTopia Meet Maestro**. This role is critical for ensuring fair competition and accurate team standings.
@@ -74,7 +74,20 @@ Navigate to **Settings → Meet Setup** and confirm:
        - **1.07** for Colony Pool specifically
    - Leave unchecked for standard 25-meter pools
 
-### Step 2: Hide Meet Score Display
+### Step 2: Load Records and Qualifying Times
+
+So Meet Maestro can flag record-breaking and qualifying swims during the meet, confirm the record books and time standards are attached.
+
+Navigate to **Settings → Meet Setup** and verify:
+
+1. **Team and Pool records** are loaded (optional, if your team tracks them)
+2. **City Meet (Championship) qualifying times** are selected as the benchmark time standard
+
+This is often handled by the home **GPSA Representative** during merge — but the scorekeeper should confirm it is set before the meet, since these standards drive the "Q" qualifying flags and record alerts that appear as times are entered.
+
+See [SwimTopia Guidelines - Adding Record Books and Qualifying Times](swimtopia-guidelines.md#adding-record-book-and-qualifying-times-to-the-meet) for step-by-step instructions.
+
+### Step 3: Hide Meet Score Display
 
 Per GPSA rules, the meet score must remain hidden until all events are complete. [Guide](https://wiki.gpsaswimming.org/swimtopia-guidelines#keeping-the-score-blind)
 
@@ -88,7 +101,7 @@ Navigate to **Settings → Mobile App**:
 
 **Why This Matters:** Displaying scores during the meet can lead to confusion and potential rules violations. The referee announces the official score only after post-meet validation.
 
-### Step 3: Print Place Judge Forms
+### Step 4: Print Place Judge Forms
 
 Place Judge Forms are used by sweeps judges to record the order of finish for each event's scoring heat (Heat 1). [Guide](https://wiki.gpsaswimming.org/swimtopia-guidelines#printing-place-judge-forms)
 
@@ -103,7 +116,7 @@ Place Judge Forms are used by sweeps judges to record the order of finish for ea
 
 **Distribution:** Give printed Place Judge Forms to the head sweeps judge or meet referee before the meet begins.
 
-### Step 4: Verify Exhibition Swimmers
+### Step 5: Verify Exhibition Swimmers
 
 GPSA dual meet rules allow only **2 swimmers per team per event** to score points. All other swimmers must be marked **Exhibition (EXH)**.
 
@@ -121,7 +134,7 @@ The scorekeeper (or rep) must mark exhibition swimmers manually:
 
 **Important:** Exhibition swimmers' times count for seeding and records, but they do NOT score team points.
 
-### Step 5: Station Setup
+### Step 6: Station Setup
 
 The scorekeeper station should have:
 
@@ -203,7 +216,7 @@ For the **scoring heat (Heat 1)**, you ***must*** manually enter the order of fi
 
 #### About the Place Judge Form
 
-The Place Judge Form is pre-printed before the meet (see [Pre-Meet Setup: Step 3](#step-3-print-place-judge-forms)) and contains one form per event's scoring heat.
+The Place Judge Form is pre-printed before the meet (see [Pre-Meet Setup: Step 4](#step-4-print-place-judge-forms)) and contains one form per event's scoring heat.
 
 ![Place Judge Form example](assets/swimtopia/place-judge-form.png)
 
@@ -216,6 +229,12 @@ A header row with place labels (1st, 2nd, 3rd... up to the number of lanes) and 
 Lists every swimmer seeded into the heat with their lane number, name, age, team, and blank Place and Time columns. Exhibition swimmers are pre-marked EXH. You cross-reference the lane numbers from the place boxes above to find the swimmer and enter their Heat Place in Meet Maestro.
 
 After the heat, the referee collects the form, makes any adjustments for DQs (removing DQ'd swimmers from the place order), initials the form, and delivers it to the scorekeeper table.
+
+::: {.callout-important}
+## Enter from the re-ranked, initialed Place Judge Form
+
+The Place Judge Form is the **official record of the order of finish**, and the referee's initialed version is the authoritative one. Always enter Heat Place values from that copy — never from the raw order the sweeps judge first recorded. When a DQ removes a placed swimmer, the referee must re-rank the remaining swimmers and initial the change (see [Step 4: Processing Disqualifications](#step-4-processing-disqualifications-dqs)) before you enter the places. An out-of-date order of finish throws off everything downstream — most visibly the award ribbons.
+:::
 
 #### Process
 
@@ -252,6 +271,7 @@ As paperwork arrives at the scorekeeper table, set it aside in an organized mann
 **Keep These Documents:**
 
 - ✅ Place Judge Forms (after entering order of finish)
+- ✅ Sweep Judge Sheets / Ranking Sheets (both teams)
 - ✅ Lane Slips / Index Cards / Lane Timer Sheets (after entering times)
 - ✅ White copies of DQ slips (see Step 4)
 - ✅ Any meet change forms submitted by coaches
@@ -288,6 +308,25 @@ When a referee issues a disqualification slip:
    - White copies stay with other meet paperwork
 
 **Important:** Only the referee can issue DQs. Coaches or officials may request a DQ, but the referee's signature is required.
+
+::: {.callout-warning}
+## A DQ on an already-placed swimmer requires the referee to re-rank the Place Judge Form
+
+If a swimmer who was recorded in the order of finish is later disqualified, checking the DQ box in Meet Maestro corrects the **team score** automatically — Meet Maestro re-ranks the remaining swimmers for points. It does **not** fix the order of finish on the printed Place Judge Form.
+
+Because the Place Judge Form is the official record of the order of finish, the referee must update it whenever a DQ changes the placings:
+
+1. **Cross out the DQ'd swimmer** on the form.
+2. **Move every swimmer below them up one position** (e.g., a DQ on 2nd makes the old 3rd the new 2nd, old 4th the new 3rd, and so on, pulling in the next eligible finisher).
+3. **Initial the change** and return the corrected form to the scorekeeper table.
+
+Then, at the scorekeeper station:
+
+- Update the **Heat Place** values in Meet Maestro to match the re-ranked form.
+- Print (or re-print) the **award and participation labels** for that event *after* the DQ and re-rank — never before. The ribbon writers work from these labels, not from the Place Judge Form, so the corrected order only reaches the ribbons once it's entered in Meet Maestro and the labels are reprinted.
+
+**Why this matters:** If the form isn't re-ranked and the Heat Places aren't updated, the score will still be right but the award labels — and therefore the ribbons — will go to the wrong swimmers. This is a common and easy-to-miss error: a swimmer can be DQ'd well after the heat (e.g., on a coach's question), by which point the original placings already feel "final" and labels may have already printed.
+:::
 
 ### Step 5: Handling Meet Changes
 
@@ -482,6 +521,7 @@ Before the referee performs final validation:
 Collect all meet paperwork and hand to the **home team GPSA Representative**:
 
 - ✅ Place Judge Forms (all events)
+- ✅ Sweep Judge Sheets / Ranking Sheets (both teams)
 - ✅ Lane Slips / Index Cards / Lane Timer Sheets
 - ✅ White copies of all DQ slips
 - ✅ Meet change forms
@@ -639,6 +679,7 @@ See [Publicity Processor wiki page](publicity-processor.md) for detailed export 
 
 - [ ] Meet name includes year and team names
 - [ ] Non-standard pool checkbox set correctly (if applicable)
+- [ ] Records and City Meet qualifying time standards loaded
 - [ ] Score display is turned OFF in Mobile App settings
 - [ ] Place Judge Forms printed and distributed
 - [ ] Exhibition swimmers marked for all events
@@ -684,10 +725,11 @@ See [Publicity Processor wiki page](publicity-processor.md) for detailed export 
 - Explain that exhibition status affects team scores
 - Direct rules questions to the referee
 
-**With Referee:**
+**With Referee:** (see the [Referee Guide](referee.md))
 
 - Notify immediately of any timing system failures
 - Ask for clarification on questionable DQs
+- Confirm the Place Judge Form is re-ranked and initialed after any DQ that changes the placings
 - Request post-meet validation when ready
 
 **With Time Drops Operator:**

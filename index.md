@@ -35,6 +35,7 @@ The Greater Peninsula Swimming Association is a youth summer swim league serving
 ### Meet Management
 
 - [Meet Preparation Guide](meet-preparation.md) - Pre-meet checklist and materials preparation for GPSA Representatives
+- [Referee Guide](referee.md) - Meet-day duties: order of finish, DQs, and post-meet validation
 - [Scorekeeper Guide](scorekeeper.md) - Complete guide to running meet scoring with Meet Maestro
 - [Publicity Submittal](publicity-submittal.md) - How to submit meet results for league publicity
 - [Season Archive Guide](season-archive.md) - Maintaining the season results archive

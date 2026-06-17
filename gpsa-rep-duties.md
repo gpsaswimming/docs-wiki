@@ -86,7 +86,7 @@ See [GPSA Rulebook - Team Responsibilities](https://rulebook.gpsaswimming.org/co
 
 | Item | Quantity |
 | --- | --- |
-| Referee | 1 |
+| [Referee](referee.md) | 1 |
 | Starter | 1 |
 | Stroke & Turn Judges | 2 |
 | Timers | 1 per lane |
@@ -123,7 +123,7 @@ Before the meet, agree with the opposing GPSA Representative on:
 ### Post-Meet
 
 1. **Lock out changes** in Meet Maestro and transfer results (see [Scorekeeper Guide - Post-Meet](scorekeeper.md#post-meet-procedures))
-2. **Collect [meet artifacts](scorekeeper.md#step-3-paperwork-handoff)** from scorekeeper (Place Judge Forms, DQ slips, lane slips, etc.)
+2. **Collect [meet artifacts](scorekeeper.md#step-3-paperwork-handoff)** from scorekeeper (Place Judge Forms, Sweep Judge Sheets from both teams, DQ slips, lane slips, etc.)
 3. **Receive awards** from ribbon writers to distribute
 4. **Submit results** to GPSA Publicity Committee **within 24 hours**
    - See [Publicity Submittal Process](publicity-submittal.md)
@@ -291,6 +291,7 @@ If you step down as GPSA Representative:
 - [Meet Preparation Guide](meet-preparation.md) - Pre-meet checklist and materials
 - [Roster Submittal Process](roster-submittal.md) - How to submit rosters
 - [Publicity Submittal Process](publicity-submittal.md) - How to submit results
+- [Referee Guide](referee.md) - Meet-day officiating duties
 - [Scorekeeper Guide](scorekeeper.md) - Meet Maestro operations
 - [SwimTopia Guidelines](swimtopia-guidelines.md) - Platform usage
 - [J. Kyle Hurdle Scholarship](hurdle-scholarship.md) - Scholarship for graduating seniors
