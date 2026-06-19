@@ -1,7 +1,7 @@
 ---
 title: Scorekeeper Guide
 toc: true
-last_updated: June 16, 2026
+last_updated: June 19, 2026
 ---
 
 The **Scorekeeper** is responsible for entering times, managing results, and maintaining accurate meet scores during GPSA dual meets using **SwimTopia Meet Maestro**. This role is critical for ensuring fair competition and accurate team standings.
@@ -463,7 +463,6 @@ Participation labels are for swimmers who competed but did NOT receive a place r
 
 - **Excluded Places:** `1-1` (only 1st place gets ribbons)
 - This means 2nd, 3rd, 4th+ relay swimmers get participation labels
-- Sort by team for easy distribution
 
 ---
 
