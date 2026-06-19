@@ -51,6 +51,8 @@ The tool does **not** support HY3/Hy-Tek 3.0 format files. Always export as SDIF
 
 The web form at [submit.gpsaswimming.org](https://submit.gpsaswimming.org) processes your results **immediately** — there's no wait for a batch run. It's the fastest way to get a meet posted.
 
+> Prefer a shorter set of steps and don't need it posted right away? [Skip to email submission](#step-2-option-b-submit-via-email) instead.
+
 ### Sign In
 
 The form is protected by a one-time email code (no password to remember). The first time you visit — or whenever your sign-in has expired — you'll be asked to authenticate.
