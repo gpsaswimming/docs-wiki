@@ -1,7 +1,7 @@
 ---
 title: Meet Preparation Guide
 toc: true
-last_updated: June 9, 2026
+last_updated: June 29, 2026
 ---
 
 This guide provides step-by-step instructions for GPSA Representatives and scorekeepers to prepare for a dual meet, from merging entries to creating all required materials.
@@ -73,7 +73,6 @@ See [SwimTopia Guidelines - Creating Heat Sheets](swimtopia-guidelines.md#creati
 
 - One form for **each heat of Heat 1** of all scored events (events 1-56)
 - Do NOT generate for Heat 2+ (only Heat 1 scores)
-- Do NOT generate for relay events (different process)
 
 **How to generate in Meet Maestro:**
 
