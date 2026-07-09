@@ -154,7 +154,7 @@ Use these **standard team abbreviations** consistently:
 | CV | Coventry |
 | EL | Elizabeth Lake |
 | GG | Glendale |
-| GWRA | Wythe |
+| WYTH | Wythe |
 | HW | Hidenwood |
 | JRCC | James River |
 | KCD | Kiln Creek |

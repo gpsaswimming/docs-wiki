@@ -70,7 +70,7 @@ season,team_code,division
 2026,GG,white
 2026,HW,white
 2026,WW,white
-2026,GWRA,white
+2026,WYTH,white
 2026,KCD,blue
 2026,JRCC,blue
 2026,RRST,blue
@@ -89,7 +89,7 @@ Use these abbreviations in the `team_code` column:
 | CV | Coventry |
 | EL | Elizabeth Lake |
 | GG | Glendale |
-| GWRA | Wythe |
+| WYTH | Wythe |
 | HW | Hidenwood |
 | JRCC | James River |
 | KCD | Kiln Creek |

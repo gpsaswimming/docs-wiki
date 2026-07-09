@@ -91,7 +91,7 @@ The tool automatically converts SwimTopia team abbreviations to readable names:
 | CV | Coventry |
 | EL | Elizabeth Lake |
 | GG | Glendale |
-| GWRA | Wythe |
+| WYTH | Wythe |
 | HW | Hidenwood |
 | JRCC | James River |
 | KCD | Kiln Creek |
