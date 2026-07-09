@@ -1,7 +1,7 @@
 ---
 title: SwimTopia Guidelines
 toc: true
-last_updated: January 2026
+last_updated: July 2026
 ---
 
 This comprehensive guide provides GPSA team administrators with step-by-step instructions for using SwimTopia to manage rosters, registration, meet setup, and swim meet execution throughout the season.
@@ -284,7 +284,7 @@ Once both teams have completed all swimmer entries:
 
 ## Various Pool Configurations
 
-In GPSA, we have pools with 4, 5, 6, and 8 lanes. For pools with 4, 5, and 6 lanes, lanes 1-4 will be used for scoring lanes in heat 1. For the 8 lane pool, the middle 4 lanes will be used for the scoring lanes in heat 1.
+In GPSA, we have pools with 4, 5, 6, and 8 lanes. No lanes are dedicated as "scoring lanes." Instead, scoring is determined by each swimmer's **point / exhibition designation** in Meet Maestro: the designated point (non-exhibition) swimmers are scored wherever they happen to swim, while exhibition swimmers are not. Point swimmers are still seeded into Heat 1.
 
 The configuration setting for number of lanes can be found in Meet Maestro, under **Settings → Meet Setup** in the **Pool Configuration** box, as shown below.
 
@@ -470,7 +470,7 @@ Sweep Judges determine the official order of finish for each heat.
 
 **Official Rules:** [USA Swimming Rulebook - Article 102.13.2](https://www.usaswimming.org/docs/default-source/rules-regulations/2023-rulebook.pdf)
 
-Each team will provide a Sweep Judge and each will independently record the Order of Finish across the 4 scoring lanes.
+Each team will provide a Sweep Judge and each will independently record the Order of Finish across the point (non-exhibition) swimmers in Heat 1.
 
 **Form:** [Sweep Judge Order of Finish Form](https://drive.google.com/file/d/1qF-M9VYFpAfvxB6xZ2-HMnbI2uz9_fGK/view?usp=sharing)
 
@@ -485,7 +485,7 @@ The Runner is responsible for collecting all lane slips from the timers and deli
 Each team will provide a scorekeeper. The scorekeepers will perform two functions:
 
 1. Record the official time collected by the timer on to the scoresheet or exhibition sheet
-2. Record the placement for the 4 swimmers competing in scoring lanes
+2. Record the placement for the point (non-exhibition) swimmers in Heat 1
 
 #### Using Meet Maestro as Scorekeeper
 
