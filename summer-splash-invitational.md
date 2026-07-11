@@ -1,7 +1,7 @@
 ---
 title: Summer Splash Invitational
 toc: true
-last_updated: March 2026
+last_updated: July 2026
 ---
 
 In the GPSA, we believe every swimmer deserves a milestone moment. While the
@@ -45,7 +45,16 @@ GPSA Representatives will help finalize your entries.
 
 ### Relays
 
-Relay eligibility follows the same rule — swimmers may participate in a relay leg for which they have a time slower than the qualifying standard. Coaches manage relay lineups.
+Summer Splash offers two freestyle relays, split by age group:
+
+- **100M Freestyle Relay** — 8 & Under
+- **200M Freestyle Relay** — 9-18
+
+Relays run as a **pool** rather than fixed, pre-submitted lineups. Relays are **opt-in** — a swimmer isn't in the pool automatically. To take part, the swimmer chooses to swim a relay and their coach enters them in the one relay that matches their age group, which adds them to the pool. The actual relay teams are then drawn from that pool. Because there won't always be an even number of swimmers, **relays can combine swimmers from different teams** to fill out complete relays — so your swimmer may race alongside athletes from other GPSA clubs.
+
+Relay eligibility follows the same rule as individual events: a swimmer may join the relay pool only if their **freestyle** time is currently slower than the City Meet qualifying standard.
+
+Entering the pool does not guarantee a relay swim. Because a spot can't be promised to everyone who wants one, **there is no charge to enter a relay.**
 
 ## Event entries
 
@@ -54,7 +63,7 @@ Coaches and GPSA Representatives manage event entries — parents do not submit 
 Each swimmer may be entered in:
 
 - Up to **3 individual events**, limited to events for which they have a time slower than the qualifying standard
-- **1 relay** (subject to the same eligibility rule)
+- **1 relay** (optional) — swimmers who want to race a relay are entered by their coach in the freestyle relay for their age group, which places them in the relay pool (see [Relays](#relays)); the same freestyle eligibility rule applies
 
 ## Day of the meet
 
@@ -72,7 +81,7 @@ Events run in this order:
 4. Backstroke — ages 6&U through 15-18
 5. Butterfly — ages 8&U through 15-18
 6. *(~20-minute break)*
-7. Relays — Open 200M Medley Relay and Open 200M Freestyle Relay
+7. Freestyle Relays — 100M Freestyle Relay (8 & Under) and 200M Freestyle Relay (9-18)
 
 See [What is an Individual Medley?](faq.md#what-is-an-individual-medley-im) if you're new to the IM event.
 
@@ -104,13 +113,14 @@ Regardless of venue:
 
 ## Awards
 
-- **Individual and relay events:** medals for 1st through 8th place
+- **Individual events:** medals for 1st through 8th place
+- **Relays:** relay awards will be announced later (see [Relays](#relays))
 - Awards are distributed to GPSA Representatives after the conclusion of the meet
 - **This meet is not scored** — no team points or team trophies
 
 ## Related Resources
 
-- [City Meet (Championship Meet)](championship-meet.md) — the championship meet held the following week
+- [City Meet (Championship Meet)](championship-meet.md) — the championship meet held typically the following week
 - [City Meet Qualifying Times](qualifying-times.md) — to understand which events your swimmer is eligible for at Summer Splash
 - [GPSA Invitationals site](https://invitationals.gpsaswimming.org) — official meet information, heat sheets, and results
 - [GPSA Representative Duties](gpsa-rep-duties.md) — entry submission and meet-day rep responsibilities
