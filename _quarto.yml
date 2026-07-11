@@ -78,6 +78,7 @@ website:
           - meet-schedule-generator.md
           - roster-formatter.md
           - publicity-processor.md
+          - entry-summary.md
           - season-archive.md
 
     tools:
