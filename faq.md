@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 toc: true
-last_updated: November 2025
+last_updated: July 2026
 ---
 
 Find answers to common questions about GPSA swimming.
@@ -132,13 +132,17 @@ Summer Splash is GPSA's end-of-season championship meet — a competition-grade 
 
 Summer Splash eligibility is based on City Meet qualifying standards — swimmers may enter events for which their time is slower than the qualifying standard. Your coach and GPSA Representative will handle entries.
 
+### How do relays work at Summer Splash?
+
+Relays are optional and freestyle-only — a 100M Freestyle Relay (8 & Under) and a 200M Freestyle Relay (9-18). Swimmers who want to race a relay opt in and are entered by their coach, which adds them to a relay pool; the relay teams are then drawn from that pool and may combine swimmers from different teams. The same freestyle eligibility rule applies, and there's no charge to enter a relay. See the [Summer Splash guide](summer-splash-invitational.md#relays) for details.
+
 ### When is Summer Splash?
 
 Summer Splash is held the Saturday before City Meet. The date is published on the [GPSA Meet Schedule](https://gpsaswimming.org/meet-schedule).
 
 ### Is there a fee for Summer Splash?
 
-Yes, the league charges a fee per swimmer and per event entered. See the [GPSA Invitationals site](https://invitationals.gpsaswimming.org) for current fees. Some teams may cover these fees—check with your GPSA Representative.
+Yes, the league charges a fee per swimmer and per individual event entered (relay entries are free). See the [GPSA Invitationals site](https://invitationals.gpsaswimming.org) for current fees. Some teams may cover these fees—check with your GPSA Representative.
 
 ## City Meet (Championship Meet)
 
