@@ -25,6 +25,7 @@ The Greater Peninsula Swimming Association is a youth summer swim league serving
 ### Venues
 
 - [Hampton Virginia Aquaplex Participant Guide](hva-participant-guide.md) - Parking, seating, and facility rules for HVA meets
+- [Hampton Virginia Aquaplex Marshal Guide](hva-marshal-guide.md) - Marshal posts, expectations, and access control for HVA invitationals
 
 ### Web Tools Documentation
 

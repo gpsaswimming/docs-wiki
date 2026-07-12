@@ -124,3 +124,4 @@ Regardless of venue:
 - [City Meet Qualifying Times](qualifying-times.md) — to understand which events your swimmer is eligible for at Summer Splash
 - [GPSA Invitationals site](https://invitationals.gpsaswimming.org) — official meet information, heat sheets, and results
 - [GPSA Representative Duties](gpsa-rep-duties.md) — entry submission and meet-day rep responsibilities
+- [HVA Marshal Guide](hva-marshal-guide.md) — for volunteers working a marshal post at the meet

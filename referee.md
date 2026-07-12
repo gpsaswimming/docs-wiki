@@ -40,7 +40,7 @@ More hands keep your head up and your eyes on the pool. Where the volunteers exi
 | **[Chief Judge](https://rulebook.gpsaswimming.org/officials.html#chief-judge-optional)** | Leads/assists the S&T briefing, confers with S&T judges on infractions, brings DQ slips for signature |
 | **Starter** | Runs the timers' briefing and controls the start |
 | **GPSA Representative** | Organizes other volunteers and dry-deck setup |
-| **Marshals** | Crowd/warm-up control with specific instructions |
+| **[Marshals](hva-marshal-guide.md)** | Crowd/warm-up control and access control with specific instructions |
 
 Even when you delegate the Place Judge Form and DQ flow to an Admin Referee, you retain ultimate authority and are consulted on questionable calls.
 

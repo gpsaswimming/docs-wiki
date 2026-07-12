@@ -88,3 +88,4 @@ Regardless of venue:
 - [Summer Splash Invitational](faq.md#summer-splash-invitational) — for swimmers without qualifying times, held the week before City Meet
 - [GPSA Invitationals site](https://invitationals.gpsaswimming.org) — official meet information, heat sheets, and results
 - [GPSA Representative Duties](gpsa-rep-duties.md) — entry submission and meet-day rep responsibilities
+- [HVA Marshal Guide](hva-marshal-guide.md) — for volunteers working a marshal post at the meet

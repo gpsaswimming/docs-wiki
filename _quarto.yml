@@ -51,6 +51,7 @@ website:
       - section: "Venues"
         contents:
           - hva-participant-guide.md
+          - hva-marshal-guide.md
 
       - section: "Team Administration"
         contents:
