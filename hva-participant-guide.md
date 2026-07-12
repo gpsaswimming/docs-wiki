@@ -1,7 +1,7 @@
 ---
 title: Hampton Virginia Aquaplex — Participant Guide
 toc: true
-last_updated: March 2026
+last_updated: July 2026
 ---
 
 The Hampton Virginia Aquaplex (HVA) hosts GPSA invitational and championship meets. This guide covers parking, spectator seating, and facility rules for families attending a meet at this venue.
@@ -38,15 +38,25 @@ Any concerns should be directed to your team's GPSA Representative.
 
 ## Spectator seating
 
-The elevated spectator viewing area seats 1,500 and overlooks both pools. Seating is first-come, first-served — teams may not reserve large sections. Please be respectful of all families in attendance.
+The elevated spectator seating wraps the pool in an **L-shape** — the full length of one long side, plus a section behind one end — and seats roughly 1,500. Seating is first-come, first-served — teams may not reserve large sections. Please be respectful of all families in attendance.
 
-![HVA pool layout showing Pool A (25M competition) and Pool B (25-yard warm-up), with spectator seating above and the no-photos zone behind the starting blocks](assets/hva/pool-layout.png)
+For GPSA meets the pool is configured as shown below. The **competition course** runs along the **diving-board end**, the **warm-up / warm-down** lanes are on the opposite end, and two bulkheads across the middle serve as the turn end:
+
+- **50s and longer** start at the diving-end blocks and turn at the center bulkhead.
+- **25s** start at the bulkhead and finish at the diving end.
+
+![HVA meet layout: competition course on the diving-board end, warm-up and warm-down on the opposite end, two center bulkheads as the turn end, spectator seating along the near side and behind the warm-up end, and the Safe Sport no-photo zone behind the starting blocks](assets/hva/pool-layout.png)
 
 ## Photos & videos
 
 Spectators are encouraged to take photos and videos during the meet. However:
 
-**NO photos or videos may be taken from behind the starting blocks.** This rule is strictly enforced by meet staff and officials in both the deck area and the spectator area. Violators will be asked to stop and delete the offending content. Refusal may result in removal from the meet and a ban from future GPSA meets.
+**NO photos or videos may be taken from behind the starting blocks.** For GPSA meets at this venue, that means:
+
+- **The diving-board end, at all times** — the deck under the diving boards, behind the competition blocks (the Safe Sport zone).
+- **The end-seating during 25s** — because 25s start from the center bulkhead facing the diving end, that seating looks directly at the swimmers' backs at the start.
+
+This rule is strictly enforced by meet staff and officials in both the deck area and the spectator area. Violators will be asked to stop and delete the offending content. Refusal may result in removal from the meet and a ban from future GPSA meets.
 
 ## Related Resources
 

@@ -1,0 +1,97 @@
+<svg width="1060" height="525" viewBox="0 0 1060 525" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text{font-family:Inter,Arial,Helvetica,sans-serif;}
+    .title{font-size:22px;font-weight:700;fill:#002366;}
+    .sub{font-size:13px;font-weight:500;fill:#4a5568;}
+    .region{font-size:16px;font-weight:700;fill:#002366;}
+    .region2{font-size:12px;font-weight:500;fill:#2d3748;}
+    .edge{font-size:13px;font-weight:700;fill:#002366;letter-spacing:.4px;}
+    .small{font-size:11px;font-weight:500;fill:#4a5568;}
+    .tag{font-size:11px;font-weight:700;fill:#002366;}
+    .redtxt{font-size:12px;font-weight:700;fill:#fff;letter-spacing:.4px;}
+    .seat{font-size:12px;font-weight:700;fill:#7a5a12;letter-spacing:.4px;}
+    .footb{font-size:11.5px;font-weight:700;fill:#b81e24;}
+  </style>
+  <rect x="0" y="0" width="1060" height="525" fill="#fff"/>
+  <defs>
+    <marker id="arL" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#002366"/></marker>
+  </defs>
+
+  <!-- header -->
+  <text x="30" y="34" class="title">Hampton Virginia Aquaplex &#8212; 2026 Meet Configuration</text>
+  <text x="30" y="56" class="sub">View from the main stands. Competition on the diving-board (right) end; warm-up on the left; two center bulkheads = turn end.</text>
+
+  <!-- far-side deck label -->
+  <text x="548" y="94" class="edge" text-anchor="middle">POOL DECK (far side) &#8212; officials, coaches &amp; swimmers only</text>
+
+  <!-- ===== LEFT end-seating (wraps behind far end) ===== -->
+  <rect x="90" y="110" width="78" height="300" fill="#f2dfa8" stroke="#c9a24b" stroke-width="2"/>
+  <rect x="96" y="116" width="66" height="288" fill="none" stroke="#d9242b" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="120" y="260" class="seat" text-anchor="middle" transform="rotate(-90 120 260)">SPECTATOR SEATING</text>
+  <text x="142" y="260" class="footb" text-anchor="middle" transform="rotate(-90 142 260)" font-size="10.5">no photos during 25s starts</text>
+
+  <!-- ===== POOL ===== -->
+  <rect x="180" y="110" width="740" height="300" fill="#e8f4fb" stroke="#002366" stroke-width="3"/>
+
+  <!-- warm-up (left half): 8 vertical lanes with gap before bulkhead -->
+  <g stroke="#9cc4e0" stroke-width="1.5">
+    <line x1="224.4" y1="110" x2="224.4" y2="410"/>
+    <line x1="263.75" y1="110" x2="263.75" y2="410"/>
+    <line x1="303.1" y1="110" x2="303.1" y2="410"/>
+    <line x1="342.5" y1="110" x2="342.5" y2="410"/>
+    <line x1="381.9" y1="110" x2="381.9" y2="410"/>
+    <line x1="421.25" y1="110" x2="421.25" y2="410"/>
+    <line x1="460.6" y1="110" x2="460.6" y2="410"/>
+    <line x1="500" y1="110" x2="500" y2="410"/>
+  </g>
+  <text x="342" y="256" class="region" text-anchor="middle">WARM-UP /</text>
+  <text x="342" y="276" class="region" text-anchor="middle">WARM-DOWN</text>
+  <text x="342" y="296" class="region2" text-anchor="middle">8 lanes &#183; side-to-side</text>
+
+  <!-- bulkheads (center, turn end) -->
+  <rect x="530" y="110" width="7" height="300" fill="#6b7280"/>
+  <rect x="541" y="110" width="7" height="300" fill="#6b7280"/>
+
+  <!-- competition (right half): 8 horizontal lanes -->
+  <g stroke="#9cc4e0" stroke-width="1.5">
+    <line x1="557" y1="147.5" x2="920" y2="147.5"/>
+    <line x1="557" y1="185"   x2="920" y2="185"/>
+    <line x1="557" y1="222.5" x2="920" y2="222.5"/>
+    <line x1="557" y1="260"   x2="920" y2="260"/>
+    <line x1="557" y1="297.5" x2="920" y2="297.5"/>
+    <line x1="557" y1="335"   x2="920" y2="335"/>
+    <line x1="557" y1="372.5" x2="920" y2="372.5"/>
+  </g>
+  <!-- starting blocks at diving-board (right) end wall -->
+  <g fill="#002366">
+    <rect x="902" y="121.75" width="14" height="14" rx="2"/>
+    <rect x="902" y="159.25" width="14" height="14" rx="2"/>
+    <rect x="902" y="196.75" width="14" height="14" rx="2"/>
+    <rect x="902" y="234.25" width="14" height="14" rx="2"/>
+    <rect x="902" y="271.75" width="14" height="14" rx="2"/>
+    <rect x="902" y="309.25" width="14" height="14" rx="2"/>
+    <rect x="902" y="346.75" width="14" height="14" rx="2"/>
+    <rect x="902" y="384.25" width="14" height="14" rx="2"/>
+  </g>
+  <!-- race direction: 50s start diving end, turn at bulkhead -->
+  <line x1="895" y1="128" x2="575" y2="128" stroke="#002366" stroke-width="2" marker-end="url(#arL)"/>
+  <text x="738" y="123" class="small" text-anchor="middle">50s race &#8592; turn at bulkhead</text>
+  <text x="738" y="256" class="region" text-anchor="middle">COMPETITION COURSE</text>
+  <text x="738" y="276" class="region2" text-anchor="middle">8 lanes &#183; full length</text>
+  <text x="563" y="330" class="tag" text-anchor="start">25s start (at bulkhead) &#8594;</text>
+  <text x="888" y="405" class="tag" text-anchor="end">50s start &#9632;</text>
+
+  <!-- ===== RIGHT safe-sport zone (deck under diving boards, behind blocks) ===== -->
+  <rect x="930" y="110" width="76" height="300" fill="#d9242b"/>
+  <text x="957" y="260" class="redtxt" text-anchor="middle" transform="rotate(-90 957 260)">SAFE SPORT ZONE</text>
+  <text x="975" y="260" text-anchor="middle" transform="rotate(-90 975 260)" font-size="10.5" font-weight="700" fill="#fff">NO PHOTOS / NO VIDEOS behind the blocks</text>
+  <text x="994" y="260" text-anchor="middle" transform="rotate(-90 994 260)" font-size="10" font-weight="600" fill="#ffd9db">under the diving boards</text>
+
+  <!-- ===== bottom: main spectator stands (viewer side) ===== -->
+  <rect x="90" y="414" width="830" height="50" fill="#f2dfa8" stroke="#c9a24b" stroke-width="2"/>
+  <text x="505" y="443" class="seat" text-anchor="middle">SPECTATOR SEATING</text>
+
+  <!-- footnote -->
+  <line x1="30" y1="490" x2="1030" y2="490" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="30" y="511" class="footb">No photos or videos from behind the starting blocks &#8212; the diving-board end always, and the end-seating during 25s events.</text>
+</svg>
