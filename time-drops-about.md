@@ -114,7 +114,7 @@ For the best meet experience with Time Drops it is recommended:
 - Train volunteers on system operation
 - Follow GPSA event order and scoring rules
 
-**Important:** Manual backup times are official **only** if the electronic system fails.
+**Important:** Manual backup times are official **only** if the electronic system fails. For how times become official across all methods — and what happens when a swim has no valid time — see [Official Times](official-times.md).
 
 ## Setting Up at a Meet
 

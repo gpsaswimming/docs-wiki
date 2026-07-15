@@ -1,7 +1,7 @@
 ---
 title: Scorekeeper Guide
 toc: true
-last_updated: June 19, 2026
+last_updated: July 15, 2026
 ---
 
 The **Scorekeeper** is responsible for entering times, managing results, and maintaining accurate meet scores during GPSA dual meets using **SwimTopia Meet Maestro**. This role is critical for ensuring fair competition and accurate team standings.
@@ -199,6 +199,37 @@ For swimmers who don't compete:
    - **DNF** - Did Not Finish (swimmer started but didn't complete the race)
 
 **Important:** Always mark no-shows. This ensures accurate heat sheets for future meets and proper seeding.
+
+#### Timing Issues and Discrepancies — Flag Them Early
+
+You are the first person to see every time as it goes in, which makes you the meet's early-warning system for timing problems. When a time looks wrong, **raise it with the referee right away** — while the heat is fresh and any backup time can still be checked — rather than letting it sit until post-meet validation.
+
+You don't rule on these; the referee does. Your job is to **surface them early and accurately.** As you enter, watch for:
+
+- A **time that doesn't fit the event** — e.g., a 100 IM that reads like a 50 time.
+- A **blank or partial time** from a timing-system failure (missed button, failed watch, start not captured).
+- A **big, unexplained drop** from the swimmer's seed time.
+- An **order of finish that fights the times** — except in close races, 1st should be the fastest, 2nd next, and so on (see the referee's [Verifying Times](referee.md#verifying-times)).
+
+##### When there's no valid time
+
+If a timing issue leaves a swimmer — or a whole heat — with no usable time, and there's no backup stopwatch time to fall back on, the referee will have you **clear the time** (see [Official Times](official-times.md#when-theres-no-valid-time) for the concept):
+
+1. Delete any bad or partial time from the **Result Time** field and leave it **blank**.
+2. Do **not** mark NS, SCR, or DNF — the swimmer raced; those codes mean something different.
+3. **Never** fabricate a time or fall back to the swimmer's **seed time** — clear it and let it publish as NT.
+
+::: {.callout-important}
+## A blank time can't change the score
+
+Because GPSA is scored by **place, not time**, a missing time costs the swimmer nothing: they keep their **Heat Place** and points from the sweeps, just like any other finisher. Enter the order of finish from the Place Judge Form as usual and leave the time blank. A cleared time publishes as **NT** (No Time) in the results — that is the correct, intended output, not an error. If you're unsure whether a time can be salvaged, **ask the referee before clearing it.**
+:::
+
+::: {.callout-tip}
+## Keep a running note of the calls you make
+
+Write down anything that isn't a routine time entry — a cleared (NT) time and why, a discrepancy you raised with the referee, a DQ correction, a late meet change, or any direction the referee gives you. A **heat sheet, a dedicated notepad, or sticky notes** all work. These notes make post-meet validation faster and let you reconstruct exactly what happened if a coach or GPSA Representative asks later.
+:::
 
 ### Step 2: Entering Order of Finish (Heat 1 Only)
 
@@ -500,7 +531,7 @@ Before the referee performs final validation:
 
 1. Review all scoring heats (Heat 1 for each event)
 2. Confirm every point-scoring swimmer has a **Heat Place** entry
-3. Check for any missing times or unmarked no-shows
+3. Check for any missing times or unmarked no-shows — every blank time should be one the referee had you clear (a timing issue with no backup), not one you simply forgot to enter
 4. Verify all DQs are entered correctly
 
 **Common Issue:** Missing Heat Place entries can cause incorrect team scores. Double-check this before calling the referee.
@@ -699,6 +730,7 @@ See [Publicity Processor wiki page](publicity-processor.md) for detailed export 
 - [ ] Accept meet changes only if 3+ events out
 - [ ] Monitor score display remains hidden
 - [ ] Have backup stopwatch times available if electronic timing fails
+- [ ] Note any cleared time, discrepancy, or referee ruling on a heat sheet, notepad, or sticky as it happens
 
 ### After Meet
 
@@ -727,6 +759,7 @@ See [Publicity Processor wiki page](publicity-processor.md) for detailed export 
 **With Referee:** (see the [Referee Guide](referee.md))
 
 - Notify immediately of any timing system failures
+- Raise time discrepancies early — obvious outliers, or an order of finish that fights the times — while the heat is fresh
 - Ask for clarification on questionable DQs
 - Confirm the Place Judge Form is re-ranked and initialed after any DQ that changes the placings
 - Request post-meet validation when ready

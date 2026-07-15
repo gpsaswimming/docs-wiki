@@ -1,7 +1,7 @@
 ---
 title: Referee Guide
 toc: true
-last_updated: June 16, 2026
+last_updated: July 14, 2026
 ---
 
 The **Meet Referee** is the senior official on deck and has full authority over the conduct of a GPSA dual meet. You enforce the rules, rule on disqualifications, certify the order of finish, resolve protests, and validate the final results before they become official.
@@ -200,13 +200,36 @@ Work through every scored event (Heat 1, events 1–56) and confirm:
 - [ ] **No DQ'd swimmer still has a place entered.** A swimmer marked DQ must **not** also carry a Heat Place. If they do, the re-rank was missed: the swimmer needs to be removed from the order of finish and everyone below them moved up. *This is the most common scoring error — check it on every event with a DQ.*
 - [ ] **Every tie is real.** If you see a tie, pull that event's Place Judge Form and confirm both sweep judges actually observed a tie — not a missing or failed entry standing in for one.
 - [ ] **All DQ slips are signed and entered,** white copies with the paperwork.
-- [ ] **Times look reasonable** — no obvious entry errors.
+- [ ] **No obvious time outliers** — times fit the event, no unexplained huge drops from seed, and every blank time is a verified timing issue (no usable time, no backup) rather than a dropped entry (see [Verifying Times](#verifying-times)).
+- [ ] **Sweeps match the times** — except in close races, no place badly out of sequence with its time (see [Verifying Times](#verifying-times)).
 - [ ] **Final team scores are accurate.**
 
 ::: {.callout-note}
 ## Walk the DQ events first
 
 The fastest way to catch a missed re-rank is to go straight to every event where a DQ was issued (your Meet Referee Sheet lists them) and confirm two things: the DQ'd swimmer has **no** place, and the swimmers who finished behind them moved up. A swimmer who is *both* DQ'd *and* placed is the signature of a skipped re-rank — and it means the printed ribbons for that event are wrong.
+:::
+
+### Verifying Times
+
+GPSA is scored **by place, not time** — the initialed Place Judge Form is the authority, and a clean order of finish stands even when the clock is messy. But the recorded times are an independent read on the same races, so a quick sanity-scan catches two things before results lock: a garbled time, and a sweep order that was entered wrong. You are not re-timing the meet — you are looking for **obvious outliers**.
+
+Scan each scored event and ask:
+
+- **Does the time fit the event?** A 100 IM that reads like a 50 time, a distance free that reads far too fast, or a blank / `0.00` where a swimmer clearly raced — the time was mis-captured or mis-keyed.
+- **Did the swimmer drop more than makes sense?** A big, unexplained improvement on the seed time is worth a second look — a timer error as often as a great swim.
+- **Do the sweeps match the times?** Except in close races, the order of finish and the times should line up — 1st the fastest, 2nd next, and so on. A place badly out of sequence with its time is a red flag, most often a **sweep entry error**: if the order of finish runs opposite the times, or one place is wildly off, the lanes were likely transposed when the order was keyed in. Pull the Place Judge Form — it records the *lane number* under each place — and confirm each place went in against the right lane.
+
+::: {.callout-important}
+## No valid time? Clear it — never fabricate or seed
+
+When a timing issue leaves a swimmer or a whole heat with no usable time and no backup to fall back on, have the scorekeeper **clear (blank) the time** in Meet Maestro — never a fabricated or seed time (see [Official Times](official-times.md#when-theres-no-valid-time)). It publishes as **NT**, and because GPSA scores by place it **cannot change the outcome** — places, points, and ribbons all come from the sweeps. At the post-meet review, **double-check that every blank time is a genuine timing issue** with no backup available — not an entry that was simply dropped — and confirm any unclear case with both [GPSA Representatives](gpsa-rep-duties.md).
+:::
+
+::: {.callout-important}
+## Times flag it — the sweeps still decide it
+
+Use the clock to *find* the problem, never to *fix* the placings. A drastic mismatch tells you to stop and verify; it does **not** authorize re-ranking by time. Go back to the **initialed Place Judge Form** and your own independent record of the order of finish, and correct whichever record was actually entered wrong. In a close finish the swimmer who was out-touched can own the faster time — that is normal, the sweep order stands, and only a *drastic*, inexplicable gap is worth chasing.
 :::
 
 When everything checks out:
@@ -219,9 +242,18 @@ See [GPSA Rulebook - Post-Meet Procedures](https://rulebook.gpsaswimming.org/con
 
 ---
 
+## When in Doubt
+
+You have final authority on deck, but you are not expected to resolve everything alone. When a call is genuinely unclear — a rule you're unsure of, a scoring discrepancy you can't reconcile, a dispute between teams, or anything that could decide the meet — **bring in both teams' [GPSA Representatives](gpsa-rep-duties.md).** Getting them involved early keeps the decision transparent and shared, and on any point of *rule modification* their agreement is required.
+
+If the two of you (and the reps) still can't settle it, **reach out to the GPSA [Rules Committee](#questions).** It is far better to pause, ask, and get it right than to guess and publish a result that has to be unwound. Either rep may also appeal a decision to the Rules Committee after the meet (see [Protests](#protests)).
+
+---
+
 ## Related Resources
 
 - [Scorekeeper Guide](scorekeeper.md) - Meet Maestro operations, DQ entry, Place Judge Forms
+- [Official Times](official-times.md) - How times become official, backups, and the no-valid-time (NT) rule
 - [Meet Preparation Guide](meet-preparation.md) - Pre-meet checklist and the forms you'll use
 - [GPSA Representative Duties](gpsa-rep-duties.md) - Meet operations, officials, protests
 - [Time Drops Timing System](time-drops-about.md) - Digital timing used by many GPSA teams
