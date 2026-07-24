@@ -1,7 +1,7 @@
 ---
 title: Scholarships & Awards
 toc: true
-last_updated: January 2026
+last_updated: July 2026
 ---
 
 Each summer, GPSA recognizes outstanding swimmers and coaches through two special programs. These awards honor individuals who embody the spirit of GPSA swimming and give back to our community.
@@ -33,7 +33,7 @@ The J. Kyle Hurdle Scholarship honors a U.S. Naval Academy Midshipman who swam f
 
 **Total awarded annually:** $2,800
 
-**To apply:** Graduating seniors write an essay and submit through their GPSA Representative.
+**To apply:** Graduating seniors write and submit their essay online at [awards.gpsaswimming.org](https://awards.gpsaswimming.org).
 
 [View Full Details & Apply](hurdle-scholarship.md){.btn .btn-primary}
 
@@ -49,7 +49,7 @@ The Kei Lamberson Award honors a beloved Marlbank coach who approached life with
 
 **Award amount:** $500
 
-**To nominate:** GPSA families nominate deserving coaches through their GPSA Representative.
+**To nominate:** GPSA families nominate deserving coaches online at [awards.gpsaswimming.org](https://awards.gpsaswimming.org).
 
 [View Full Details & Nominate](lamberson-award.md){.btn .btn-primary}
 
@@ -64,11 +64,11 @@ The Kei Lamberson Award honors a beloved Marlbank coach who approached life with
 
 ## How to Participate
 
-1. **Swimmers:** Talk to your [GPSA Representative](gpsa-rep-duties.md) about applying for the Hurdle Scholarship
-2. **Families:** Nominate a coach who has made an impact on your swimmer
-3. **Representatives:** Encourage eligible swimmers and collect nominations from families
+1. **Swimmers:** Apply for the Hurdle Scholarship online at [awards.gpsaswimming.org](https://awards.gpsaswimming.org)
+2. **Families:** Nominate a coach who has made an impact on your swimmer at [awards.gpsaswimming.org](https://awards.gpsaswimming.org)
+3. **Representatives:** Encourage eligible swimmers and families on your team to submit before the deadline
 
-All submissions go through your team's GPSA Representative to [scholarships@gpsaswimming.org](mailto:scholarships@gpsaswimming.org).
+All applications and nominations are submitted online at [awards.gpsaswimming.org](https://awards.gpsaswimming.org) — nothing to download or email.
 
 ## Related Resources
 

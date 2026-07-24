@@ -1,7 +1,7 @@
 ---
 title: Kei Lamberson Outstanding Coach Award
 toc: true
-last_updated: January 2026
+last_updated: July 2026
 ---
 
 The Kei Lamberson Outstanding Coach Award is an annual $500 award presented to a GPSA coach who exemplifies joy, compassion, and companionship in connecting with swimmers. Coaches are nominated by GPSA families, and a winner is selected each summer.
@@ -33,36 +33,26 @@ The Kei Lamberson Award goes to the coach that best exemplifies these qualities,
 
 - **Award Amount:** $500, funded by an annual contribution from the Lamberson family
 - **Recipients:** One coach or team of co-coaches per season
-- **Nomination:** By GPSA families through their team's GPSA Representative
+- **Nomination:** By GPSA families, submitted online at [awards.gpsaswimming.org](https://awards.gpsaswimming.org)
 
-## Nomination Process
+## How to Nominate
 
-This is a **nomination award**, not an application. GPSA Representatives may nominate a coach and seek someone familiar with that coach to draft the nomination essay.
+This is a **nomination award**, not an application — a GPSA family nominates a coach and asks someone familiar with that coach to write the essay. Nominations are submitted online at **[awards.gpsaswimming.org](https://awards.gpsaswimming.org)**, where the whole nomination, including the essay, is completed on the form. There is nothing to download or email, and you'll receive a confirmation email once it's received.
 
-### Step 1: Download the Nomination Form
-
-Download and fill out the [Nomination Form](lamberson-award-form.pdf).
-
-### Step 2: Write the Nomination Essay
+### Write the nomination essay
 
 **{{< meta gpsa.season >}} Essay Topic:** "How has your coach demonstrated joy, compassion and companionship in connecting with all swimmers on your team this summer?"
 
-**Essay Requirements:**
-
 - Minimum 250 words, maximum 750 words
-- Submit in Microsoft Word, Google Docs, or similar format
+- Typed directly into the nomination form, which tracks your word count as you go
 
-### Step 3: Submit to Your GPSA Representative
+### Submit online
 
-Submit the completed nomination form and essay to your team's [GPSA Representative](gpsa-rep-duties.md).
-
-### Step 4: Representative Submits to GPSA
-
-The GPSA Representative will email the nomination to [scholarships@gpsaswimming.org](mailto:scholarships@gpsaswimming.org) with the subject line "Kei Lamberson Coach Award."
+Complete and submit the nomination at **[awards.gpsaswimming.org](https://awards.gpsaswimming.org)** before the deadline.
 
 ## Deadline
 
-All entries must be emailed by the GPSA Representative by **midnight, {{< meta gpsa.scholarship-deadline >}}**.
+All nominations must be submitted online by **midnight, {{< meta gpsa.scholarship-deadline >}}**. The form closes automatically at the deadline.
 
 ## Award Announcement
 
@@ -70,6 +60,6 @@ The winner will be announced at the **Championship Meet (City Meet)** on {{< met
 
 ## Related Resources
 
-- [Nomination Form](lamberson-award-form.pdf) - Download and complete the nomination
+- [Nominate online at awards.gpsaswimming.org](https://awards.gpsaswimming.org) - Submit your coach nomination
 - [J. Kyle Hurdle Scholarship](hurdle-scholarship.md) - GPSA's scholarship for graduating swimmers
 - [About GPSA](about.md) - Learn more about the league

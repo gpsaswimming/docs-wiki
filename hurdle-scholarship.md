@@ -1,7 +1,7 @@
 ---
 title: J. Kyle Hurdle Scholarship
 toc: true
-last_updated: January 2026
+last_updated: July 2026
 ---
 
 The J. Kyle Hurdle Scholarship is an annual scholarship awarded by GPSA to graduating seniors each summer. The scholarship honors the memory of J. Kyle Hurdle, a GPSA swimmer who went on to swim at the U.S. Naval Academy.
@@ -49,32 +49,24 @@ To be eligible for the J. Kyle Hurdle Scholarship, applicants must:
 - Be planning to **advance their education** (college, trade school, apprenticeship, etc.) in the upcoming academic year
 - Have participated in GPSA swimming
 
-## Application Process
+## How to Apply
 
-### Step 1: Write Your Essay
+Applications are submitted online at **[awards.gpsaswimming.org](https://awards.gpsaswimming.org)** — the entire application, including your essay, is completed on the form. There is nothing to download, email, or hand to your representative, and you'll receive a confirmation email once it's received.
+
+### Write your essay
 
 **{{< meta gpsa.season >}} Essay Topic:** "What positive impact has summer swimming had on your life? How do you intend to pay this forward?"
 
-**Essay Requirements:**
-
 - Minimum 300 words, maximum 700 words
-- Submit as a Microsoft Word (.docx) or PDF document
+- Typed directly into the application form, which tracks your word count as you go
 
-### Step 2: Complete the Application Form
+### Submit online
 
-Download and fill out the [Scholarship Application Form](hurdle-scholarship-form.pdf).
-
-### Step 3: Submit to Your GPSA Representative
-
-Submit your completed application and essay to your team's [GPSA Representative](gpsa-rep-duties.md). The representative's submission of your essay serves as their **recommendation** of your leadership, work ethic, and sportsmanship.
-
-### Step 4: Representative Submits to GPSA
-
-Your GPSA Representative will email your application and essay to [scholarships@gpsaswimming.org](mailto:scholarships@gpsaswimming.org) with the subject line "GPSA Scholarship."
+Complete and submit your application at **[awards.gpsaswimming.org](https://awards.gpsaswimming.org)** before the deadline. Applicant names are removed before the sponsoring family reviews the essays, so every entry is judged on its merits.
 
 ## Deadline
 
-All entries must be emailed by the GPSA Representative by **midnight, {{< meta gpsa.scholarship-deadline >}}**.
+All applications must be submitted online by **midnight, {{< meta gpsa.scholarship-deadline >}}**. The form closes automatically at the deadline.
 
 ## Award Announcement
 
@@ -82,6 +74,6 @@ Winners will be announced and awards presented at the **Championship Meet (City 
 
 ## Related Resources
 
-- [Scholarship Application Form](hurdle-scholarship-form.pdf) - Download and complete the application
+- [Apply online at awards.gpsaswimming.org](https://awards.gpsaswimming.org) - Submit your scholarship application
 - [Kei Lamberson Outstanding Coach Award](lamberson-award.md) - GPSA's coach recognition program
 - [About GPSA](about.md) - Learn more about the league
