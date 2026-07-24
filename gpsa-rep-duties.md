@@ -265,14 +265,14 @@ See [GPSA Rulebook - Eligibility Challenges](https://rulebook.gpsaswimming.org/e
 - Assist referee in resolving disciplinary issues
 - Enforce Code of Conduct
 
-### Scholarship and Award Submissions
+### Scholarships and Awards
 
-You are responsible for submitting scholarship applications and coach nominations on behalf of your team:
+Applications and nominations are submitted **online by the applicant or nominating family** at [awards.gpsaswimming.org](https://awards.gpsaswimming.org) — you no longer collect or email them. Your role is to spread the word:
 
-- **[J. Kyle Hurdle Scholarship](hurdle-scholarship.md):** Review and submit applications from graduating seniors. Your submission serves as a recommendation of the applicant's leadership, work ethic, and sportsmanship.
-- **[Kei Lamberson Outstanding Coach Award](lamberson-award.md):** Submit coach nominations from families on your team.
+- **[J. Kyle Hurdle Scholarship](hurdle-scholarship.md):** Encourage eligible graduating seniors on your team to apply.
+- **[Kei Lamberson Outstanding Coach Award](lamberson-award.md):** Let families know they can nominate your team's coach.
 
-Both submissions are due by **midnight, July 27** each year. Email to [scholarships@gpsaswimming.org](mailto:scholarships@gpsaswimming.org).
+Both are due by **midnight, July 27** each year, and the online forms close automatically at the deadline.
 
 ---
 
