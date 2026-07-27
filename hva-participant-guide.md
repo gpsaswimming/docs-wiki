@@ -40,21 +40,21 @@ Any concerns should be directed to your team's GPSA Representative.
 
 The elevated spectator seating wraps the pool in an **L-shape** — the full length of one long side, plus a section behind one end — and seats roughly 1,500. Seating is first-come, first-served — teams may not reserve large sections. Please be respectful of all families in attendance.
 
-For GPSA meets the pool is configured as shown below. The **competition course** runs along the **diving-board end**, the **warm-up / warm-down** lanes are on the opposite end, and two bulkheads across the middle serve as the turn end:
+For GPSA meets the pool is configured as shown below. The **competition course** runs along the end **opposite the diving boards**, the **warm-up / warm-down** lanes are on the **diving-board end**, and two bulkheads across the middle serve as the turn end:
 
-- **50s and longer** start at the diving-end blocks and turn at the center bulkhead.
-- **25s** start at the bulkhead and finish at the diving end.
+- **50s and longer** start at the competition-end blocks and turn at the center bulkhead.
+- **25s** start at the bulkhead and finish at the competition end.
 
-![HVA meet layout: competition course on the diving-board end, warm-up and warm-down on the opposite end, two center bulkheads as the turn end, spectator seating along the near side and behind the warm-up end, and the Safe Sport no-photo zone behind the starting blocks](assets/hva/pool-layout.png)
+![HVA meet layout: competition course on the end opposite the diving boards, warm-up and warm-down on the diving-board end, two center bulkheads as the turn end, spectator seating along the near side and behind the competition end, and the Safe Sport no-photo zones behind the competition blocks and — during the 25s — the seating nearest the diving-board end](assets/hva/pool-layout.png)
 
 ## Photos & videos
 
 Spectators are encouraged to take photos and videos during the meet. However:
 
-**NO photos or videos may be taken from behind the starting blocks.** For GPSA meets at this venue, that means:
+**NO photos or videos may be taken from behind the starting blocks.** For GPSA meets at this venue the starting end changes with the event, so the no-photo seating changes with it:
 
-- **The diving-board end, at all times** — the deck under the diving boards, behind the competition blocks (the Safe Sport zone).
-- **The end-seating during 25s** — because 25s start from the center bulkhead facing the diving end, that seating looks directly at the swimmers' backs at the start.
+- **The end-seating behind the competition blocks — for 50s and longer.** The competition course starts at the end opposite the diving boards, and this seating sits directly behind those blocks, looking straight at the swimmers' backs at the start.
+- **The seating nearest the diving-board end — during the 25s.** 25s start from the center bulkhead facing the competition end, which turns the swimmers' backs toward the diving-board end; that seating gets a diagonal view directly behind them.
 
 This rule is strictly enforced by meet staff and officials in both the deck area and the spectator area. Violators will be asked to stop and delete the offending content. Refusal may result in removal from the meet and a ban from future GPSA meets.
 

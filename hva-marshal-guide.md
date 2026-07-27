@@ -1,7 +1,7 @@
 ---
 title: Hampton Virginia Aquaplex — Marshal Guide
 toc: true
-last_updated: July 11, 2026
+last_updated: July 26, 2026
 ---
 
 Marshals keep the [Summer Splash Invitational](summer-splash-invitational.md) and [City Meet](championship-meet.md) running safely and orderly at the Hampton Virginia Aquaplex (HVA). This guide is for volunteers assigned a marshal post at HVA. If you're attending as a spectator, see the [HVA Participant Guide](hva-participant-guide.md) instead.
@@ -52,6 +52,7 @@ Each group has a designated way into the pool. Part of marshaling is routing peo
 | Post | Boundary you protect | Core responsibility |
 | --- | --- | --- |
 | [Top of stairs](#top-of-stairs) | Spectator area ↔ pool deck | Credentialed persons & swimmers only |
+| [Seating behind the blocks](#seating-behind-the-blocks) | Competition-end seating (50s+) + diving-end-side seating (25s) | No photography or recording; protect swimmer privacy |
 | [Main entrance](#main-entrance) | Lobby ↔ pool deck | Credentialed persons & swimmers only |
 | [Locker rooms](#locker-rooms) | Outside hallway ↔ locker rooms | **NO ENTRY** |
 | [Wet deck hallway](#wet-deck-hallway) | Pool deck ↔ locker-room corridor | Athletes only in Locker Room, Coaches/Officials use Single Stall rooms |
@@ -64,6 +65,21 @@ Stationed in the pool area at the stairs between the **spectator seating and the
 - Allow only **credentialed persons** (coaches, officials, representatives) and **swimmers** down to the deck.
 - Keep spectators and family in the seating area. Parents who want to reach a swimmer should be directed to that swimmer's coach or GPSA Representative — they do not go onto the deck.
 - Do not let anyone linger on the stairs; keep the path clear for swimmers and officials moving between deck and seating.
+
+### Seating behind the blocks
+
+Just before each start, swimmers step onto the blocks and bend forward with their backs to whatever is behind them. Any seating that looks at those backs is a **no-photo zone** — it's a swimmer-privacy and Safe Sport rule, and holding it is the core of this post. Which seating that is **switches ends with the event** (see the [Participant Guide](hva-participant-guide.md#spectator-seating) for the layout):
+
+- **50s and longer** start at the **competition-end blocks** (the end opposite the diving boards). The **end-seating sits directly behind those blocks**, so it's a no-photo zone whenever swimmers are starting there — that's essentially every conventional event.
+- **25s** start at the **center bulkhead**, facing the competition end. That turns the swimmers' backs toward the **diving-board end**, and the **seating nearest that end has a diagonal sightline right behind the bulkhead starts** — so during the 25s that section becomes the no-photo zone instead.
+
+There is a no-photo seating zone for **every** start; it just switches ends depending on what's being swum.
+
+- **No photos or video of the swimmers on the blocks** from the seating behind them — phones, cameras, tablets, or any other device. This applies to everyone, **including parents recording their own child.**
+- **Know which zone is live.** For 50s and longer, watch the **end-seating behind the competition blocks**. For the 25s, watch the **seating nearest the diving-board end**, which catches the bulkhead starts on a diagonal.
+- Ask politely to lower any camera aimed at the blocks: "We don't allow photos or video from behind the blocks — it's a swimmer-privacy rule. You're welcome to take photos from the side."
+- Keep it simple and non-accusatory. Most people don't realize the angle is a concern and will put the camera away once you explain.
+- If someone won't cooperate, or something about the behavior concerns you, **contact the Meet Safety Officer right away.** Don't confront the person alone, and don't try to inspect or take anyone's device — that's for the Safety Officer and referee to handle.
 
 ### Main entrance
 
