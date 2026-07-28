@@ -1,7 +1,7 @@
 ---
 title: Hampton Virginia Aquaplex — Marshal Guide
 toc: true
-last_updated: July 26, 2026
+last_updated: July 28, 2026
 ---
 
 Marshals keep the [Summer Splash Invitational](summer-splash-invitational.md) and [City Meet](championship-meet.md) running safely and orderly at the Hampton Virginia Aquaplex (HVA). This guide is for volunteers assigned a marshal post at HVA. If you're attending as a spectator, see the [HVA Participant Guide](hva-participant-guide.md) instead.
@@ -49,6 +49,10 @@ Each group has a designated way into the pool. Part of marshaling is routing peo
 
 ## Marshal posts
 
+Use this map to locate your post before your shift starts:
+
+![HVA facility map: competition pool with two center bulkheads, the team room and t-shirt pickup along the top, locker rooms reserved for participating swimmers, concessions and the hospitality room on the right, and the HVA Program Pool on the left marked no access](assets/hva/facility-map.png)
+
 | Post | Boundary you protect | Core responsibility |
 | --- | --- | --- |
 | [Top of stairs](#top-of-stairs) | Spectator area ↔ pool deck | Credentialed persons & swimmers only |
@@ -74,6 +78,8 @@ Just before each start, swimmers step onto the blocks and bend forward with thei
 - **25s** start at the **center bulkhead**, facing the competition end. That turns the swimmers' backs toward the **diving-board end**, and the **seating nearest that end has a diagonal sightline right behind the bulkhead starts** — so during the 25s that section becomes the no-photo zone instead.
 
 There is a no-photo seating zone for **every** start; it just switches ends depending on what's being swum.
+
+![HVA Safe Sport zones: the seating along the right end of the pool is a no-photo zone, and the left half of the long-side seating is a no-photo zone during the 25s; the remaining long-side seating is general spectator seating](assets/hva/safe-sport-zones.png)
 
 - **No photos or video of the swimmers on the blocks** from the seating behind them — phones, cameras, tablets, or any other device. This applies to everyone, **including parents recording their own child.**
 - **Know which zone is live.** For 50s and longer, watch the **end-seating behind the competition blocks**. For the 25s, watch the **seating nearest the diving-board end**, which catches the bulkhead starts on a diagonal.

@@ -20,6 +20,20 @@ On-site parking in the pool parking lot is limited. Overflow parking is availabl
 
 ![HVA parking map showing pool parking lot, drop-off area, and overflow parking at the Coliseum](assets/hva/parking-map.png)
 
+## Inside the facility
+
+![HVA facility map: competition pool with two center bulkheads, the team room and t-shirt pickup along the top, locker rooms reserved for participating swimmers, concessions and the hospitality room on the right, and the HVA Program Pool on the left marked no access](assets/hva/facility-map.png)
+
+| Area | What to know |
+|---|---|
+| **Team Room** | T-shirt pickup, plus recruiting tables for the Coast Guard Blue Dolphins (CGBD) and HVA Current (HVAC) |
+| **Locker Rooms** | Participating swimmers **only** |
+| **Hospitality** | Coaches, GPSA Representatives, and officials **only** |
+| **HVA Concessions** | Open to everyone |
+| **HVA Program Pool** | **No access** — this is HVA's separate program pool and is closed to the meet |
+
+The Coast Guard Blue Dolphins and HVA Current are year-round swim clubs. Their tables in the Team Room are open to any family interested in swimming beyond the summer season.
+
 ## Pool deck access
 
 Access to the pool deck is strictly controlled. **Only coaches, officials, swimmers, and meet volunteers are permitted on the pool deck.** Spectators must remain in the seating area above.
@@ -55,6 +69,8 @@ Spectators are encouraged to take photos and videos during the meet. However:
 
 - **The end-seating behind the competition blocks — for 50s and longer.** The competition course starts at the end opposite the diving boards, and this seating sits directly behind those blocks, looking straight at the swimmers' backs at the start.
 - **The seating nearest the diving-board end — during the 25s.** 25s start from the center bulkhead facing the competition end, which turns the swimmers' backs toward the diving-board end; that seating gets a diagonal view directly behind them.
+
+![HVA Safe Sport zones: the seating along the right end of the pool is a no-photo zone, and the left half of the long-side seating is a no-photo zone during the 25s; the remaining long-side seating is general spectator seating](assets/hva/safe-sport-zones.png)
 
 This rule is strictly enforced by meet staff and officials in both the deck area and the spectator area. Violators will be asked to stop and delete the offending content. Refusal may result in removal from the meet and a ban from future GPSA meets.
 
